@@ -1,0 +1,10 @@
+norMix                  Mixtures of Univariate Normal Distributions
+dnorMix                 Normal Mixture Density
+rnorMix                 Generate ``Normal Mixture'' Distributed Random Numbers
+plot.norMix             Plotting Methods for `norMix' Objects
+r.norMix                Ratio of Normal Mixture to Corresponding Normal
+
+MarronWand              Marron-Wand Densities as `norMix' Objects
+
+rmultinom               Multinomial Distribution Random Numbers
+

@@ -1,0 +1,11 @@
+This is the result of some tinkering around at one time when investigating
+yet another density estimation idea.
+I found it useful to use normal mixtures as examples, including the
+Marron-Wand densities.
+
+			Martin Mächler, ETH Zurich, Switzerland
+			March 1997,  June 2002
+---------
+
+o  The Marron-Wand densities are not regular data sets, e.g., they can't be
+   used without the normix package. ==> hence in ./R/ and not ./data/
